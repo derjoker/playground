@@ -1,6 +1,3 @@
-# 融资融券交易总量
-# http://stock.jrj.com.cn/rzrq/jyzs.shtml
-
 import os
 import json
 import math
